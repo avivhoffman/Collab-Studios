@@ -575,3 +575,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.25-12.48.14:008][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.05.25-12.48.18:222][732]LogSlate: Window 'Source Control Login' being destroyed
 [2019.05.25-12.48.25:437][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.25-12.48.57:704][384]SourceControl: fatal: F:/UE_4.22/Engine/Content: 'F:/UE_4.22/Engine/Content' is outside repository
+[2019.05.25-12.48.57:769][384]EditorErrors: Warning: No assets to check in!
